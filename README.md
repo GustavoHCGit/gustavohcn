@@ -16,15 +16,6 @@
 
 ---
 
-<div>
-  <a href="https://beacons.ai/gustavohcn">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohcn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohcn&layout=compact&langs_count=16&theme=dark"/>
-  </a>
-</div>
-
----
-
 ## 🚀 Linguagens e Tecnologias
 
 <p align="left">
